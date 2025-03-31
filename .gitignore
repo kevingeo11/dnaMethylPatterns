@@ -129,18 +129,6 @@ dmypy.json
 .pyre/
 
 # proj specific folders
-
+superposition_*/
 
 # proj specific files
-*.pdf
-*.wig
-*.gz
-*.bed
-*.bw
-*.tar
-*.pdb
-*.csv
-*.zip
-*.json
-*.pse
-*.png
